@@ -1,5 +1,5 @@
 # GSIM
-Demo of the GAN Speech Inpainting Model for Clear Harmonics
+Demo of the GAN Speech Inpainting Model for Clear Harmonics.
 
 We provide three kinds of samples of the proposed GAN speech inpainting model for clear harmonics, including Samples of 'Time & Frequency missing', 'Random generated holes', and 'Additional attempt in inpainting of singing voice'.
 
